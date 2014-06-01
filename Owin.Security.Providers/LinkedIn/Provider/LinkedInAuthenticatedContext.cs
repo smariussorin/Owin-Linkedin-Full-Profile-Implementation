@@ -102,31 +102,6 @@ namespace Owin.Security.Providers.LinkedIn
             Projects = new List<LinkedInFullProfileProjects>();
         }
 
-        public class LinkedInFullProfilePositions
-        {
-            public string Company { get; set; }
-            public string Industry { get; set; }
-            public string PositionTitle { get; set; }
-            public bool IsCurrentCompany { get; set; }
-            public string StartDate { get; set; }
-            public string EndDate { get; set; }
-            public string PositionSummary { get; set; }
-        }
-
-        public class LinkedInFullProfileEducation
-        {
-            public string SchoolName { get; set; }
-            public string Degree { get; set; }
-            public string FieldofStudy { get; set; }
-        }
-
-        public class LinkedInFullProfileProjects
-        {
-            public string Name { get; set; }
-            public string Description { get; set; }
-            public string Url { get; set; }
-        }
-
         public LinkedInFullProfile(JObject user)
         {
             try
@@ -205,6 +180,29 @@ namespace Owin.Security.Providers.LinkedIn
         #endregion
     }
 
-   
+    public class LinkedInFullProfilePositions
+    {
+        public string Company { get; set; }
+        public string Industry { get; set; }
+        public string PositionTitle { get; set; }
+        public bool IsCurrentCompany { get; set; }
+        public string StartDate { get; set; }
+        public string EndDate { get; set; }
+        public string PositionSummary { get; set; }
+    }
+
+    public class LinkedInFullProfileEducation
+    {
+        public string SchoolName { get; set; }
+        public string Degree { get; set; }
+        public string FieldofStudy { get; set; }
+    }
+
+    public class LinkedInFullProfileProjects
+    {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string Url { get; set; }
+    }
     #endregion
 }
