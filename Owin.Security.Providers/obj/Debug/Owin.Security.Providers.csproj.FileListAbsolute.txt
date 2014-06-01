@@ -1,0 +1,14 @@
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Owin.Security.Providers.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Owin.Security.Providers.pdb
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Microsoft.Owin.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Newtonsoft.Json.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Owin.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Microsoft.Owin.xml
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.xml
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\bin\Debug\Newtonsoft.Json.xml
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.csprojResolveAssemblyReference.cache
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.Properties.Resources.resources
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.csproj.GenerateResource.Cache
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.dll
+E:\LICENTA\JobProfiler\JobProfiler-master\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.pdb
